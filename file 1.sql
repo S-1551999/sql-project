@@ -1,3 +1,7 @@
+creating a database of the hotel named “Grosvenor”
+
+
+
 CREATE TABLE hotel ( hotel_no CHAR(4) NOT NULL, 
 name VARCHAR(20) NOT NULL, 
 address VARCHAR(50) NOT NULL,
